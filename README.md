@@ -1,11 +1,8 @@
-<p align="center">
-  <img width="1897" height="1067" alt="Screenshot 2025-11-29 111800" src="https://github.com/user-attachments/assets/c801b3aa-c2b0-4997-bce8-6393929b47f3" />
-</p>
-
 <h1 align="center">🚀 FinNext — AI-Powered Stock Analysis Platform</h1>
+<p align="center">
+  <img width="1470" height="921" alt="Screenshot 2026-03-01 at 2 42 48 AM" src="https://github.com/user-attachments/assets/131363fd-e641-46ae-86d2-867972f71f4e" />
 
-
----
+</p>
 
 ## ✨ 1. Overview
 
